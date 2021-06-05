@@ -8,4 +8,5 @@ https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIF
 tutorial from Corey Schafer. i used it to learn pandas; much recommended 
 
 https://pandas.pydata.org/docs/
+
 offical documentation of pandas
