@@ -1,5 +1,5 @@
 # Pandas_Notes
-Notes for Pandas; a very common python library used heavily in data science and data analysis. 
+Notes for Pandas; a very common python library used heavily in data science and data analysis. (currently only the beginner notebooks are on github but soon the intermediate and advanced will also be on github)
 
 resources to learn pandas:
 
